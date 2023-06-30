@@ -1,0 +1,81 @@
+********************************************************************************
+Palmer Station Weather Highlights:      May 1996
+
+        Temperature:    Abs Max:    6.1 C          Day: 27
+                        Abs Min:   -8.0 C          Day: 25
+                            Avg:     NA C
+                        Avg Max:    0.9 C
+                        Avg Min:   -3.7 C
+
+        Pressure:       Abs Max: 1015.2 mb         Day: 14
+                        Abs Min:  950.9 mb         Day: 29
+                            Avg:     NA mb
+                        Avg Max:  987.1 mb
+                        Avg Min:  977.7 mb
+
+        Wind:             Peak:      73 kts        Day: 29
+                           Avg:      15 kts
+                        Days Prevailing:     N: 3
+                                            NE: 7
+                                             E: 4
+                                            SE: 5
+                                             S: 1
+                                            SW: 6
+                                             W: 2
+                                            NW: 3
+
+        Precipitation:  Melted:    63.3 mm         YTD:   364.2 mm
+                          Snow:      62 cm         YTD:     117 cm
+                Days with Precipitation:     23
+                Days with Snow:              16
+                Maximum Snowstake Depth:     39 cm Day: 26
+
+        Clouds: Average Cloud Coverage:      87%
+                Days Overcast:               26
+                Days Partly Cloudy:           4
+                Days Clear:                   1
+
+
+
+============================== Daily Weather Data ==============================
+Column Titles:
+        1. Day                         9. Wind Peak Direction (degrees)
+        2. Temperature High   (C)     10. Wind Avg              (knots)
+        3. Temperature Low    (C)     11. Wind Prevailing Direction
+        4. Temperature Avg    (C)     12. Precipitation Melted     (mm)
+        5. Pressure High     (mb)     13. Precipitation Snow       (cm)
+        6. Pressure Low      (mb)     14. Depth at Snowstake       (cm)
+        7. Pressure Avg      (mb)     15. Sky Coverage         (tenths)
+        8. Wind Peak      (knots)     16. Sea Temp/Ice     (WMO coding)
+
+01   1.4  -2.0    NA  987.0  981.0     NA 12 180  1 SW  0.3  0   0 10 0100300790
+02   3.9   1.0    NA  977.5  976.0     NA 27 060 12 NE  0.0  0   0  8 0100300790
+03   3.6  -2.5    NA  983.8  974.1     NA 41 050 18 NE  2.4  8   8  8 0100500690
+04  -0.1  -3.0    NA  991.3  970.0     NA 38 230 19 SW  0.9  T   8  8 0100600690
+05   2.4  -5.0    NA  991.4  986.1     NA 30 130  6  E  2.3  2   8  6 0000000690
+06   3.1  -1.5    NA  987.3  979.2     NA 26 150  8 SE  6.8  8  15 10 0100500690
+07   4.0   0.5    NA  976.4  970.2     NA 37 050 18  E  0.0  0  13  7 0100300690
+08   3.8  -0.8    NA  977.0  970.1     NA 28 060  8 SE  0.0  0  12  6 0100400690
+09   1.0  -2.2    NA  978.8  977.0     NA 31 050 10 SW  0.0  0  11 10 0100400690
+10   0.3  -2.2    NA  983.9  981.3     NA  6 040  1 NE 10.6 15  20 10 0100500690
+11  -0.5  -3.8    NA  990.9  983.6     NA 25 020  7 SE  0.8  1  24 10 0100400690
+12   0.1  -4.5    NA 1010.3  995.9     NA 20 190  2  S  0.0  0  20  8 0100500690
+13  -1.8  -5.5    NA 1014.2 1012.9     NA 16 110  8  E  0.0  0  19  3 0100600690
+14   0.5  -5.6    NA 1015.2 1003.4     NA 47 040 12  E  1.1  T  19  8 0100500690
+15   1.5   0.2    NA 1000.2  977.2     NA 51 050 21 NW  3.9  T  20 10 0100700690
+16   0.0  -1.8    NA  988.3  973.9     NA 51 040 20 SE  0.4  0  21 10 0101000690
+17   2.4  -1.6    NA  972.1  962.3     NA 43 040 21  N  6.1  7  24 10 0100800690
+18  -0.5  -2.0    NA  975.2  970.5     NA 42 020 25  N  2.8  4  37 10 0101400690
+19  -0.1  -7.7    NA  979.7  977.3     NA 24 350 16  N  2.7  1  36 10 0101200690
+20  -0.5  -6.0    NA  977.3  976.5     NA 38 040 26 NE  0.0  0  28 10 0101200690
+21  -2.4  -6.0    NA  986.6  983.0     NA 38 040 10 NE  0.9  3  28  7 0101400690
+22  -0.9  -6.0    NA  986.4  967.8     NA 44 040 16 SE  0.9  T  26 10 0101000690
+23   0.5  -2.5    NA  979.4  976.4     NA 36 020 17 NW  2.4  2  30 10 0101200690
+24   0.5  -5.2    NA  985.0  977.1     NA 37 330 17  W  1.7  0  33  8 0101600690
+25  -3.3  -8.0    NA 1005.6  997.0     NA 35 230 14 SW  0.2  0  30  9 0101500790
+26   2.5  -6.1    NA 1000.9  980.1     NA 54 090 26 NE  1.3  0  39  9 0000000690
+27   6.1  -2.2    NA  980.0  960.7     NA 64 020 29 NE  2.6  0  15  8 0100700690
+28   3.0  -4.2    NA  974.5  963.5     NA 39 360 19 NW  6.9  8  13 10 0100800690
+29   1.0  -5.0    NA  968.7  950.9     NA 73 050 29  W  4.9  3  30 10 0101300690
+30  -1.0  -6.8    NA  982.0  968.4     NA 47 250 24 SW  0.0  0  19  8 0102400690
+31  -3.0  -6.8    NA  992.9  985.2     NA 40 250 20 SW  0.4  0  19 10 0101800690

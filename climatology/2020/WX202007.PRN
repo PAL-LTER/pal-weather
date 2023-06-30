@@ -1,0 +1,192 @@
+Palmer Station Weather Highlights:       July, 2020
+
+        Temperature:    Abs Max:   4.3 C                          Day: 9
+                        Abs Min:   -12.9 C                        Day: 29
+                            Avg:   -5 C
+
+        Pressure:       Abs Max:   1015.9 mb              Day: 6
+                        Abs Min:   959.9 mb               Day: 23
+                            Avg:   998 mb
+
+        Wind:             Peak:    56 kts                         Day: 27
+                           Avg:    7.9 kts
+                        Days Prevailing:
+                                             SW : 7
+                                             W : 4
+                                             NE : 4
+                                             SE : 3
+                                             NNW : 2
+                                             WSW : 2
+                                             NNE : 1
+                                             ESE : 1
+                                             S : 1
+                                             ENE : 1
+                                             SSW : 1
+                                             NW : 1
+                                             N : 1
+                                             WNW : 0
+                                             SSE : 0
+                                             E : 0
+
+
+        Precipitation: Rainfall:      10.4 mm                     YTD:     mm
+                           Snow:      36 cm                       YTD:     cm
+        Maximum Snowstake Depth:      61.4 cm                     Day: 24
+
+============================= Daily Weather Data =============================
+Column Titles:
+        1. Day                         9. Wind 5-Sec Peak Direction
+        2. Temperature High    (C)    10. Wind Average               (knots)
+        3. Temperature Low     (C)    11. Wind Prevailing Direction
+        4. Temperature Average (C)    12. Rainfall                   (mm)
+        5. Pressure High      (mb)    13. Precipitation Snow         (cm)
+        6. Pressure Low       (mb)    14. Depth at Snowstake         (cm)
+        7. Pressure Average   (mb)    15. Sea Surface Temperature    (C)
+        8. Wind 5-Sec Peak (knots)    16. Sea Ice                    (WMO code)
+
+01      -2.4    -5.3    -3.9    1015.7  1013.1  1015    17.3    349     4.6     S       0       0       33      -1.6    20690
+02      -5.1    -8      -6.2    1010.7  1009.6  1010.1  11.8    339     2.9     ENE     0       0       33      -1.6    20691
+03      -5.1    -7.4    -6      1009.6  1003.4  1005.7  11.3    154     3.4     NE      0       0       33      -1.6    20691
+04      -5.4    -6.5    -5.9    1009.6  1004    1006.1  12.4    217     4.4     SW      0       0       33      -1.4    20691
+05      -4.7    -6.1    -5.3    1015.6  1009.6  1013.4  6.7     125     2       NE      0       0       33      -1.3    20691
+06      -3.5    -5.8    -4.5    1015.9  1014.4  1015.4  6       328     .5      NE      0       0       33      -1.4    20691
+07      -4.4    -7.3    -5.9    1014.4  1008.4  1011.5  6                       NE      0       0       33      -1.3    20690
+08      0.7     -4.8    -2.6    1008.6  999.4   1004.9  26.2    142     3.4     SE      0       1       33.6    -1.2    20690
+09      4.3     0.5     2       1000.3  995     997.5   43.7    41      15.8    SE      0       0       32.4    -0.8    20690
+10      1.8     0       0.7     995.4   994.4   995     17.6    39      4.8     N       0       0       32.4    -0.8    20690
+11      1.8     0       0.7     995.4   994.4   995     17.6            4.8             0       0       31.8    -1.2    20690
+12      1.8     0       0.7     995.4   994.4   995     17.6            4.8             0       7       39.2    -1.1    20690
+13      -3.5    -5.5    -4.7    1004.7  1004    1004.5  17.7    232     8.2     SW      0       0       38.8    -1.3    20690
+14      -4.8    -6.5    -5.9    1004.9  1003.9  1004.5  19.3    236     5.8     SW      0       0       40      -1.3    20690
+15      -5.4    -7.2    -6.3    1004    999.6   1001.3  15.4    230     5.3     WSW     0       0       37      -1.2    20690
+16      -2.5    -6.9    -4.9    1003.3  995.3   1001.3  16.6    343     4.3     W       0.5     0       36.8    -1.4    20690
+17      -1.7    -7.1    -5.3    1002.9  993.7   996.6   34.3    247     18.9    SW      0.3     0       36.6    -1.5    20690
+18      -3      -6.5    -4.9    1006.5  1002.7  1005.2  26      228     7.1     SW      0       1       37.4    -1.5    20690
+19      -2.2    -4.3    -3      1012.8  1005.8  1008.9  13.9    251     4.8     W       0       0       37.4    -1.4    20690
+20      -0.6    -2.9    -1.5    1013    1000.3  1008.8  21.3    290     7       NW      0.8     1       38      -1.5    20690
+21      -0.4    -5.8    -3.2    1006.2  993.2   999.6   16.2    130     4.5     W       0.5     3       41      -1.4    20690
+22      -0.5    -1.9    -0.9    994.7   986.3   990     21.2    331     7.7     NNW     6.4     9       50.4    -1.5    20690
+23      -1.3    -5.2    -2.8    989.1   959.9   978.1   47.3    257     6.3     NNW     1.3     1       51.6    -1.6    20690
+24      -5.1    -10.3   -8      986.7   961.6   972.9   53.8    128     22.4    ESE     0.3     10      61.4    -0.9    20690
+25      -5.8    -9.7    -7.8    987.8   980.3   984.6   17.9    278     8       W       0       0       61      -1.3    20690
+26      -5.2    -9.2    -6.5    990.5   980.3   986.6   25.8    25      11.7    NNE     0       0       60.2    -1.5    20690
+27      -4.2    -11.2   -8.4    985.7   968.2   974.8   56.3    227     24.4    SW      0       0       60.2    -1.5    20690
+28      -6.2    -10.6   -8.1    990.7   976.4   985.4   32.3    212     13.1    SSW     0       0       60.6    -1.5    20690
+29      -5      -12.9   -9.1    989.8   975.8   982.1   41.6    330     16.9    SW      0       0       58      -1.6    20690
+30      -5.6    -9.8    -8.3    1002    985.6   994.3   33.2    226     5.9     WSW     0       0       58      -1.6    20690
+31      -1.4    -5.7    -3.1    1006.7  1001.7  1005.1  11.3    127     3       SE      0.5     3       61.4    -1.7    20690onthly Climate Summary for July, 2020
+
+South Pole Station, Antarctica
+
+ 
+
+Temperature:
+
+Average temp............ -60.1°C / -76.2°F
+
+Departure from normal... -0.2°C / -0.4°F
+
+Maximum temp............ -38.1°C / -36.6°F on day 2
+
+Minimum temp............ -73.8°C / -100.8°F on day 31
+
+ 
+
+Wind:
+
+Average wind speed.......... 11.6 mph or 10.1 knots
+
+Prevailing wind direction... Grid East or 080 degrees
+
+Maximum wind speed.......... 31 mph or 27 knots on days 03 & 17
+
+Maximum wind direction...... Grid Southeast
+
+Average vectored wind....... 056 degrees at 8.9 knots
+
+ 
+
+Station Pressure:
+
+Average pressure........ 676.6 mb or 19.980 in. Hg
+
+Departure from normal...   0.0 mb or  0.000 in. Hg
+
+Highest pressure........ 698.7 mb or 20.633 in. Hg on day 01
+
+Lowest pressure......... 664.2 mb or 19.614 in. Hg on day 19
+
+ 
+
+Physio-altitude:
+
+Average Physio-alt = 10757 ft / 3279 m
+
+Highest Physio-alt = 11230 ft / 3423 m on day 19
+
+Lowest Physio-alt  = 9931 ft / 3027 m on day 01
+
+ 
+
+Sky Cover:
+
+Average cloud cover (8ths)... 04
+
+Days clear................... 13
+
+Days partly cloudy........... 12
+
+Days cloudy.................. 06
+
+ 
+
+Sunshine:
+
+Sunrise on 21 September 2020
+
+Average hours per day... 0.0
+
+Percent of possible..... 0
+
+ 
+
+Visibility...Nulldays with a visibility of 1/4 mile or less.
+
+ 
+
+Snowfall..... Trace; average net change at snow stakes +1.323 inches.
+
+ 
+
+Balloon flight data:
+
+Number of soundings for the month... 31
+
+Average height of sounding.......... 117.1 mb or 15055 meters above msl
+
+Highest sounding.................... 6.5 mb or 29683 meters above msl on the day 06/00Z sounding
+
+ 
+
+Remarks:
+
+00 soundings were missed.
+
+04 soundings were terminated above 50 mb.
+
+01 soundings were terminated between 50 and 100 mb.
+
+26 soundings were terminated below 100 mb.
+
+ 
+
+**RECORDS**
+
+Day 2: The daily average wind speed of 3.3 MPH / 2.9 kts breaks the previous record for lowest daily average wind speed of 3.5 mph / 3.0 kts set in 1995
+
+ 
+
+Day 31: The low temperature of  -73.8°C / -100.8°F tied the daily record low temperature of -73.8°C / -100.8°F previously set in 2005.
+
+
+

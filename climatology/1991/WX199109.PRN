@@ -1,0 +1,80 @@
+********************************************************************************
+Palmer Station Weather Highlights:      September 1991
+
+        Temperature:    Abs Max:    4.3 C          Day: 11
+                        Abs Min:  -17.5 C          Day: 24
+                            Avg:     NA C
+                        Avg Max:   -0.7 C
+                        Avg Min:   -7.8 C
+
+        Pressure:       Abs Max: 1025.4 mb         Day: 28
+                        Abs Min:  952.0 mb         Day: 11
+                            Avg:     NA mb
+                        Avg Max: 1001.8 mb
+                        Avg Min:  989.7 mb
+
+        Wind:             Peak:      72 kts        Day: 5
+                           Avg:      12 kts
+                        Days Prevailing:     N: 2
+                                            NE: 4
+                                             E: 1
+                                            SE: 8
+                                             S: 0
+                                            SW: 6
+                                             W: 0
+                                            NW: 9
+
+        Precipitation:  Melted:    42.4 mm         YTD:   536.9 mm
+                          Snow:      29 cm         YTD:     329 cm
+                Days with Precipitation:     20
+                Days with Snow:              19
+                Maximum Snowstake Depth:     69 cm Day: 13
+
+        Clouds: Average Cloud Coverage:      88%
+                Days Overcast:               23
+                Days Partly Cloudy:           6
+                Days Clear:                   1
+
+
+
+============================== Daily Weather Data ==============================
+Column Titles:
+        1. Day                         9. Wind Peak Direction (degrees)
+        2. Temperature High   (C)     10. Wind Avg              (knots)
+        3. Temperature Low    (C)     11. Wind Prevailing Direction
+        4. Temperature Avg    (C)     12. Precipitation Melted     (mm)
+        5. Pressure High     (mb)     13. Precipitation Snow       (cm)
+        6. Pressure Low      (mb)     14. Depth at Snowstake       (cm)
+        7. Pressure Avg      (mb)     15. Sky Coverage         (tenths)
+        8. Wind Peak      (knots)     16. Sea Temp/Ice     (WMO coding)
+
+01   1.2  -3.2    NA  989.2  981.1     NA 42 350 23 NW  8.6  3  66 10         NA
+02   2.2  -4.6    NA  997.2  985.2     NA 44 040 15 NW  1.0  1  68 10         NA
+03   1.0  -3.8    NA 1009.3  996.9     NA 20 360  8 NW  0.4  T  67 10         NA
+04   3.0  -2.8    NA 1008.3  984.0     NA 38 050 13 NW    T  T  66 10         NA
+05   2.5  -2.0    NA  983.9  967.2     NA 72 030 32  N  2.2  1  65 10         NA
+06  -2.0  -6.8    NA  979.1  975.2     NA 32 350  8 SE  0.4  0  66 10         NA
+07  -3.2 -10.2    NA  986.8  979.1     NA 20 260  9 NW  0.0  0  65  6         NA
+08  -4.6  -9.5    NA  995.4  986.7     NA 20 260  6 SW  0.3  T  66  6         NA
+09   1.4  -9.5    NA 1003.9  995.5     NA 22 150  6 SE  1.7  1  66  7         NA
+10   3.2  -2.5    NA 1003.1  979.1     NA 72 040 36  N 11.2  5  65 10         NA
+11   4.3  -0.4    NA  979.2  952.0     NA 63 040 29 NE  3.4  T  64 10         NA
+12   0.5 -13.3    NA  984.3  952.1     NA 38 180 19 SW  1.5  1  62  9         NA
+13   0.2  -5.2    NA  984.8  972.9     NA 37 360 11 NW  2.4  3  69 10         NA
+14   0.3  -4.1    NA  972.9  958.5     NA 51 020 32 NW  1.5  1  66  9         NA
+15  -3.3 -13.0    NA  979.9  959.7     NA 39 230 14 SW  0.6  1  66 10         NA
+16  -6.5 -16.7    NA 1002.7  979.9     NA 19 240 10 SW  0.0  0  64  6         NA
+17  -6.0 -16.3    NA 1009.9  997.8     NA 12 340  4 NW  0.0  0  64  7         NA
+18  -2.5  -8.0    NA 1015.5 1009.9     NA  9 360  4 NW  0.0  0  64 10         NA
+19   0.0 -13.5    NA 1018.0 1015.1     NA 19 040  5 SE  0.0  0  64  2         NA
+20  -2.5  -6.3    NA 1018.0 1013.1     NA 12 050  2 SE  0.0  0  64 10         NA
+21  -4.5  -9.3    NA 1013.1 1011.9     NA 11 180  2 SW  0.0  0  64  9         NA
+22  -4.5 -12.6    NA 1012.0 1007.3     NA  9 250  4 SE  0.5  3  66 10         NA
+23 -10.5 -16.9    NA 1007.9 1006.9     NA  9 160  2 SE  0.3  1  66  6         NA
+24   2.8 -17.5    NA 1007.4  995.9     NA 26 150 11  E  0.1  T  65 10         NA
+25   2.5  -0.7    NA  999.2  992.6     NA 31 030 11 SE  2.8  5  69 10         NA
+26   3.0  -1.5    NA 1012.7  999.2     NA 20 040  8 SE  2.8  3  68 10         NA
+27   0.1  -3.7    NA 1024.9 1012.8     NA 11 240  2 SW  0.7  T  67 10         NA
+28  -1.1  -9.5    NA 1025.4 1014.2     NA 13 130  8 NE  0.0  0  67  9         NA
+29   1.5  -5.5    NA 1014.3 1003.9     NA 23 040  9 NE  0.0  0  67  9         NA
+30   0.5  -4.5    NA 1014.9 1004.7     NA 13 030  7 NE  0.0  0  67 10         NA

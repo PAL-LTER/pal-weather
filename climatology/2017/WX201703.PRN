@@ -1,0 +1,78 @@
+plmer Station Weather Highlights:       March, 2017
+
+        Temperature:    Abs Max:   9.3 C Day: 20
+                        Abs Min:   -2.1 C Day: 1
+                            Avg:   2 C
+
+        Pressure:       Abs Max:   1012.2 mb Day: 5
+                        Abs Min:   978 mb Day: 22
+                            Avg:   997.6 mb
+
+        Wind:             Peak:    61 kts Day: 27
+                           Avg:    8.8 kts
+                        Days Prevailing:
+                                             NNE : 7 
+                                             NNW : 6 
+                                             N : 6 
+                                             ESE : 5 
+                                             NE : 2 
+                                             NW : 1 
+                                             W : 1 
+                                             SW : 1 
+                                             WSW : 1 
+                                             SSW : 1 
+                                             SSE : 0 
+                                             S : 0 
+                                             SE : 0 
+                                             E : 0 
+                                             ENE : 0 
+                                             WNW : 0 
+
+
+        Precipitation: Rainfall:      134.9 mm YTD:	188 mm
+                           Snow:       cm YTD:	cm
+        Maximum Snowstake Depth:      0 cm Day: 21
+
+============================= Daily Weather Data ============================= 
+Column Titles:
+        1. Day                         9. Wind 5-Sec Peak Direction 
+        2. Temperature High    (C)    10. Wind Average               (knots)
+        3. Temperature Low     (C)    11. Wind Prevailing Direction
+        4. Temperature Average (C)    12. Rainfall                   (mm)
+        5. Pressure High      (mb)    13. Precipitation Snow         (cm)
+        6. Pressure Low       (mb)    14. Depth at Snowstake         (cm)
+        7. Pressure Average   (mb)    15. Sea Surface Temperature    (C)
+        8. Wind 5-Sec Peak (knots)    16. Sea Ice                    (WMO code)
+
+01	2.1	-2.1	0.1	998.7	995.7	996.9	30.5	102	8	N	0	0	0	1.8	0/6/0 
+02	2	-0.5	0.8	996.4	994.4	995.3	10.7	20	4	N	0	0	0	1.4	0/6/0 
+03	1.9	-1.9	0	1000.9	995.3	997.9	13.4	16	3.9	NNE	0	0	0	1.2	0/6/0 
+04	1.7	-1.9	0	1006.9	1000.9	1003.3	17.2	128	7.2	NNE	0	0	0	1	0/6/0 
+05	0.5	-1.1	-0.3	1012.2	1006.9	1010.7	16	9	5.4	ESE	0	0	0	1.1	0/6/0 
+06	1.5	-1	0.2	1012	1007.6	1009.6	9	219	1.5	NNE	0	0	0	1.3	0/6/0 
+07	1.1	-0.4	0.3	1008.2	1005.4	1006.8	14.4	220	5.3	SSW	0	0	0	1.2	0/6/0 
+08	2.2	-0.4	0.7	1008.4	1004.5	1005.6	12.2	211	2.1	N	0.3	0	0	0.9	0/6/0 
+09	4	-1.3	1	1009.7	1008.3	1009.2	11.3	200	2.2	NNW	0	0	0	0.7	0/6/0 
+10	3.3	0.9	1.9	1009.6	1004.9	1007.6	5.6	31	1.3	NNE	0	0	0	1.3	0/6/0 
+11	2.6	-0.9	0.7	1004.9	997.9	1001.4	10.4	118	2.8	ESE	0	0	0	1.3	0/6/0 
+12	5.4	0.5	2.8	997.9	986.5	992	31.5	23	7.3	ESE	0	0	0	1.6	0/6/0 
+13	6.4	2	3.9	993.3	985.7	988.8	33.7	33	4.6	NE	0.5	0	0	1.3	0/6/0 
+14	3.5	1.5	2.3	1002.6	993.2	997.9	10.8	98	2.1	ESE	3.8	0	0	1.2	0/6/0 
+15	3.5	0.8	2.1	1010.9	1002.6	1006.8	12.8	12	1.2	NE	0	0	0	1.4	0/6/0 
+16	4.6	0.6	2.3	1011.6	1000.3	1008.7	32.2	7	10.7	NNE	1.8	0	0	1.2	0/6/0 
+17	5.7	2.1	4.2	1000.7	982.9	988.9	49.4	25	27.6	NNE	9.1	0	0	1.9	0/6/0 
+18	4.5	0.5	2.8	990.8	983.3	985.3	29.2	341	8.8	N	3.6	0	0	1.7	0/6/0 
+19	3.2	-0.3	1.7	1002.8	990.8	999.1	12.7	109	3.3	NNW	3	0	0	1.3	0/6/0 
+20	9.3	1.2	6.1	1002.8	985.7	996.3	48.3	16	15.2	NNE	2	0	0	1.4	0/6/0 
+21	5.9	2.7	3.9	990.5	981.2	988.3	35.2	12	11.1	NNW	1.8	0	0	0.9	0/6/0 
+22	4.5	0.2	1.9	985.8	978	981.7	26	237	10.1	WSW	18.3	0	0	1.3	0/6/0 
+23	2.4	1.1	1.7	994.7	985.8	990.5	24.5	239	6.3	SW	0	0	0	1.2	0/6/0 
+24	2.5	0.4	1.3	997.3	992	995.8	17.4	38	3.3	NNW	0	0	0	0.7	0/6/0 
+25	4.8	1.2	2.4	992.4	987.9	989.6	35.3	12	9.3	ESE	2.5	0	0	1	0/6/0 
+26	4.1	0.7	2.3	1007.3	992.4	1001.7	21.6	11	4.1	NNW	0	0	0	0.9	0/6/0 
+27	5.4	2.3	3.8	1007.2	990.6	998.9	61.1	23	35.5	N	43.7	0	0	0.8	0/4/0 
+28	6	2.9	3.8	997	988.7	993.6	44.9	345	22.4	N	25.1	0	0	0.5	0/6/0 
+29	5.1	1.1	2.9	994.8	988.4	991.1	45.9	350	20.7	NW	1.8	0	0	0.6	0/6/0 
+30	2.8	-0.2	1.3	1000.1	987.6	993.7	30.2	230	11.3	W	4.8	0	0	-0.1	0/6/0 
+31	3.8	-0.9	2	1001	985.3	992.8	42.8	4	15.8	NNW	12.7	0	0	0.4	0/6/0 
+ermafrost,128.104.110.109 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAxfFgHysQatockBexaFoy3wSQ/O4HkGbFyLHsTafD2jorihRqRoWSoCccBDKkgMqlhdcn2bZFNeaJtesWz7YschrbMbEfQAMwbjFXwnIZhyrhW3JlxuL9SrB+Bk1g2yPrfDPeJ6GmVTZLDoT+5o6D9Y9/3AY8wWPG7pmKoJxtVZqcaAW1/D88sXQ/YfFb+4C81lJv2QJPDngkeX1pooQbcRSVFiBSwi7mRoEK7HZYE1LSS4tawKsGxtlCgSItR/JqasH0aLIKPgudgxpXeBRpD21jW9y9Yu6mPGJtQr5NZiTeeHLko6PD3bGJypAQPx6//H2RAw/vLAyJLWbnsElLaQ==
