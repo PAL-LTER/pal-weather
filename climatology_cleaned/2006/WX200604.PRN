@@ -1,3 +1,8 @@
+Please note: Due to a significant hardware failure on the station's weather observing system, some items from April 06 - 13 are not available. Missing data is indicated with an "M".
+
+This revision adds precipitation data previously listed as missing for dates 06-13 April. The precipitation data was taken from an alternate automatic precipitation gauge, located approximately 300m from the standard gauge.  The alternate gauge was an AllWeather Inc. model 6011-A tipping bucket rain gauge, with a resolution of 0.1mm. Because the alternate gauge is
+located on an upper deck of the station's geophysical laboratory, without a proper wind screen, wind effects may have affected the readings when compared to the standard station gauge. For the days when the alternate gauge was in use, however, weather conditions were relatively dry and should result in no significant deviations in the data.
+
 ********************************************************************************
 Palmer Station Weather Highlights:       April 2006
 
@@ -24,7 +29,7 @@ Palmer Station Weather Highlights:       April 2006
                                               W: 1
                                              NW: 2
 
-        Precipitation:  Melted:     33.0 mm         YTD:   188.0 mm
+        Precipitation:  Melted:     33.3 mm         YTD:   188.3 mm
                           Snow:       13 cm         YTD:      19 cm
                 Maximum Snowstake Depth:       4 cm Day: 6
 
@@ -34,26 +39,25 @@ Column Titles:
         1. Day                         9. Wind 2-Min Peak (knots)
         2. Temperature High    (C)    10. Wind 2-min Peak Direction (degrees)
         3. Temperature Low     (C)    11. Wind Average (knots)
-        4. Temperature Average (C)    12. Wind Prevailing Direction 
+        4. Temperature Average (C)    12. Wind Prevailing Direction
         5. Pressure High      (mb)    13. Precipitation Melted (mm)
         6. Pressure Low       (mb)    14. Precipitation Snow (cm)
         7. Pressure Average   (mb)    15. Depth at Snowstake (cm)
         8. Wind 5-Sec Peak (knots)    16. Sea Temp/Ice (WMO code)
 
-April 2006
  1   2.1  -0.1   0.7 1002.9  992.9  998.7 19 17 256  6 W   0.3  0   0 0000329190
  2   4.4   0.5   2.6  994.3  970.2  977.9 65 47 051 23 NE  7.1  0   0 0001229190
  3   3.5  -0.1   1.5  993.9  969.5  984.4 35 25 025 12 NW  3.1  0   0 0000829190
  4   5.3  -1.2   0.7  994.0  967.4  981.0 37 24 099  9 E   0.0  0   0 0001129190
  5   2.4   0.1   1.4  972.9  965.5  967.0 37 29 117 14 E   0.0  0   0 0001129190
- 6     M     M     M     M      M      M   M  M  M   M M     M  4   4 0000629190
- 7     M     M     M     M      M      M   M  M  M   M M     M  0   0 0001129190
- 8     M     M     M     M      M      M   M  M  M   M M     M  0   0 0001029190
- 9     M     M     M     M      M      M   M  M  M   M M     M  1   0 0000829290
-10     M     M     M     M      M      M   M  M  M   M M     M  0   0 0000529290
-11     M     M     M     M      M      M   M  M  M   M M     M  0   0 0001029290
-12     M     M     M     M      M      M   M  M  M   M M     M  0   0 0000229290
-13     M     M     M     M      M      M   M  M  M   M M     M  0   0 0000229290
+ 6     M     M     M      M      M      M  M  M   M  M M   0.2  4   4 0000629190
+ 7     M     M     M      M      M      M  M  M   M  M M   0.1  0   0 0001129190
+ 8     M     M     M      M      M      M  M  M   M  M M   0.0  0   0 0001029190
+ 9     M     M     M      M      M      M  M  M   M  M M   0.0  1   0 0000829290
+10     M     M     M      M      M      M  M  M   M  M M   0.0  0   0 0000529290
+11     M     M     M      M      M      M  M  M   M  M M   0.0  0   0 0001029290
+12     M     M     M      M      M      M  M  M   M  M M   0.0  0   0 0000229290
+13     M     M     M      M      M      M  M  M   M  M M   0.0  0   0 0000229290
 14   1.3  -1.4  -0.3 1006.3  992.5 1002.8 37 26 019 11 SW  0.8  1   0 0100129290
 15   2.3   0.3   1.1  992.5  984.9  988.3 33 26 346 11 N   5.1  2   0 0100729290
 16   0.6  -1.2  -0.4  997.9  985.3  990.5 18 14 223  8 SW  0.0  0   0 0100429290

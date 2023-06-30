@@ -1,54 +1,54 @@
 ********************************************************************************
-Palmer Station Weather Highlights:       January 2010        
+Palmer Station Weather Highlights:       January 2010
 
-	Temperature:    Abs Max:     6.8 C          Day: 7                        
-                        Abs Min:    -2.2 C          Day: 1                            
-                            Avg:     1.8 C                        
-                        Avg Max:     4.2 C                        
-                        Avg Min:     0.3 C        
+	Temperature:    Abs Max:     6.8 C          Day: 7
+                        Abs Min:    -2.2 C          Day: 1
+                            Avg:     1.8 C
+                        Avg Max:     4.2 C
+                        Avg Min:     0.3 C
 
-	Pressure:       Abs Max:  1002.4 mb         Day: 10                        
-                        Abs Min:   973.1 mb         Day: 26                            
-                            Avg:   989.3 mb                        
-                        Avg Max:   992.1 mb                        
-                        Avg Min:   986.7 mb        
+	Pressure:       Abs Max:  1002.4 mb         Day: 10
+                        Abs Min:   973.1 mb         Day: 26
+                            Avg:   989.3 mb
+                        Avg Max:   992.1 mb
+                        Avg Min:   986.7 mb
 
-	Wind:             Peak:       60 kts        Day: 4                           
-	                   Avg:        7 kts                        
-                        Days Prevailing:      N: 9                                             
-					     NE: 7                                              
-					      E: 4                                            
-					     SE: 1                                              
-					      S: 0                                             
-					     SW: 3                                              
-					      W: 2                                             
-					     NW: 5        
+	Wind:             Peak:       60 kts        Day: 4
+	                   Avg:        7 kts
+                        Days Prevailing:      N: 9
+					     NE: 7
+					      E: 4
+					     SE: 1
+					      S: 0
+					     SW: 3
+					      W: 2
+					     NW: 5
 
-	Precipitation:  	Melted:     11.9 mm         YTD:    11.9 mm                          
-	                 	  Snow:        0 cm         YTD:       0 cm                
+	Precipitation:  	Melted:     11.9 mm         YTD:    11.9 mm
+	                 	  Snow:        0 cm         YTD:       0 cm
       	       Maximum Snowstake Depth:       0 cm Day: NA
 
 
 ============================== Daily Weather Data==============================
-Column Titles:        
-1. Day                         9. Wind 2-Min Peak            (knots)        
-2. Temperature High    (C)    10. Wind 2-min Peak Direction(degrees)        
-3. Temperature Low     (C)    11. Wind Average               (knots)        
-4. Temperature Average (C)    12. Wind Prevailing Direction        
-5. Pressure High      (mb)    13. Precipitation Melted          (mm)        
-6. Pressure Low       (mb)    14. Precipitation Snow            (cm)        
-7. Pressure Average   (mb)    15. Depth at Snowstake            (cm)        
-8. Wind 5-Sec Peak (knots)    16. Sea Temp/Ice            (WMO code) 
+Column Titles:
+1. Day                         9. Wind 2-Min Peak            (knots)
+2. Temperature High    (C)    10. Wind 2-min Peak Direction(degrees)
+3. Temperature Low     (C)    11. Wind Average               (knots)
+4. Temperature Average (C)    12. Wind Prevailing Direction
+5. Pressure High      (mb)    13. Precipitation Melted          (mm)
+6. Pressure Low       (mb)    14. Precipitation Snow            (cm)
+7. Pressure Average   (mb)    15. Depth at Snowstake            (cm)
+8. Wind 5-Sec Peak (knots)    16. Sea Temp/Ice            (WMO code)
 
-1   1.8  -2.2  -0.4  994.0  992.3  993.4 17 15 239  6 NE  0.0  0   0  010040/6/0 
-2   2.0  -0.3   0.5  993.8  991.5  992.3 14 12 226  6 SW  0.0  0   0  010010/6/0 
-3   3.6   0.2   1.4  997.7  993.8  996.3 22 17 016  6 N   0.0  0   0  000030/6/0 
-4   6.1  -0.1   2.9  995.7  983.8  987.9 60 34 063 13 E   0.0  0   0  000080/6/0 
-5   4.8   1.6   2.8  993.3  986.4  990.6 22 15 024  5 N   0.0  0   0  000030/6/0 
-6   4.8  -1.4   0.9  999.4  993.4  996.8 20 15 029  6 NW  0.0  0   0  000100/6/0 
-7   6.8  -0.7   2.4  999.8  998.3  999.2  8  7 226  3 NE  0.0  0   0  000130/6/0 
-8   5.8  -0.7   2.1  999.1  998.1  998.6  9  8 299  3 NE  0.0  0   0  000210/6/0 
-9   3.2   0.3   1.5 1001.5  999.1 1000.4 13 11 339  4 N   0.0  0   0  000240/6/0
+ 1   1.8  -2.2  -0.4  994.0  992.3  993.4 17 15 239  6 NE  0.0  0   0  010040/6/0
+ 2   2.0  -0.3   0.5  993.8  991.5  992.3 14 12 226  6 SW  0.0  0   0  010010/6/0
+ 3   3.6   0.2   1.4  997.7  993.8  996.3 22 17 016  6 N   0.0  0   0  000030/6/0
+ 4   6.1  -0.1   2.9  995.7  983.8  987.9 60 34 063 13 E   0.0  0   0  000080/6/0
+ 5   4.8   1.6   2.8  993.3  986.4  990.6 22 15 024  5 N   0.0  0   0  000030/6/0
+ 6   4.8  -1.4   0.9  999.4  993.4  996.8 20 15 029  6 NW  0.0  0   0  000100/6/0
+ 7   6.8  -0.7   2.4  999.8  998.3  999.2  8  7 226  3 NE  0.0  0   0  000130/6/0
+ 8   5.8  -0.7   2.1  999.1  998.1  998.6  9  8 299  3 NE  0.0  0   0  000210/6/0
+ 9   3.2   0.3   1.5 1001.5  999.1 1000.4 13 11 339  4 N   0.0  0   0  000240/6/0
 10   1.5   0.1   0.8 1002.4 1001.5 1002.0 22 19 019 12 N   0.0  0   0  000220/6/0
 11   4.8  -0.2   1.7 1001.8 1000.6 1001.1 25 21 023  8 NE  0.0  0   0  000200/6/0
 12   5.0  -0.3   2.1 1001.2  999.7 1000.4 13 11 354  5 W   0.0  0   0  000260/6/0
