@@ -16,13 +16,13 @@
 
 
 # Full Directories
-rsync -avz /Volumes/palmer/climat ./weather_amrc
-rsync -avz /Volumes/palmer/climatology ./weather_amrc
-rsync -avz /Volumes/palmer/seasurfobs_snowacc ./weather_amrc
-rsync -avz /Volumes/palmer/waterwall ./weather_amrc
+rsync -avz --delete /Volumes/palmer/climat ./weather_amrc
+rsync -avz --delete /Volumes/palmer/climatology ./weather_amrc
+rsync -avz --delete /Volumes/palmer/seasurfobs_snowacc ./weather_amrc
+rsync -avz --delete /Volumes/palmer/waterwall ./weather_amrc
 
 # Specific Years for large folders
-rsync -avz /Volumes/palmer/observations/2022 ./weather_amrc/observations/
-rsync -avz /Volumes/palmer/observations/2023 ./weather_amrc/observations/
-rsync -avz /Volumes/palmer/tidegauge/2022 ./weather_amrc/tidegauge/
-rsync -avz /Volumes/palmer/tidegauge/2023 ./weather_amrc/tidegauge/
+rsync -avz --delete /Volumes/palmer/observations/2022 ./weather_amrc/observations/
+rsync -avz --delete /Volumes/palmer/observations/2023 ./weather_amrc/observations/
+rsync -avz --delete /Volumes/palmer/tidegauge/2022 ./weather_amrc/tidegauge/
+rsync -avz --delete /Volumes/palmer/tidegauge/2023 ./weather_amrc/tidegauge/
