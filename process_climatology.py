@@ -1,6 +1,7 @@
 #!/usr/bin/python
 #
 # Palmer LTER - Weather Processing Scripts
+# Daily averaged weather: knb-lter-pal.28
 #
 # This script merges the daily weather (climatology) data files from the UW-Madison ARMC archive.
 # It combines a hand-edited set of files from 1989 to 2017-02 (found in the

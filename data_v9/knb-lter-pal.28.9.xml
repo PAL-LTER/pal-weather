@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml packageId="knb-lter-pal.28.9" scope="system" system="https://pasta.edirepository.org" xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
+  <access authSystem="https://pasta.edirepository.org/authentication" order="allowFirst" scope="document" system="https://pasta.edirepository.org">
+    <allow>
+      <principal>uid=PAL,o=lter,dc=ecoinformatics,dc=org</principal>
+      <permission>all</permission>
+    </allow>
+    <allow>
+      <principal>public</principal>
+      <permission>read</permission>
+    </allow>
+  </access>
+  <dataset scope="document">
+    <alternateIdentifier>28</alternateIdentifier>
+    <title>Daily weather averages for Palmer Station, Antarctica (1989-2023)</title>
+    <creator>
+      <organizationName>Palmer Station Antarctica LTER</organizationName>
+      <address>
+        <deliveryPoint>Rutgers Marine &amp; Coastal Sciences</deliveryPoint>
+        <deliveryPoint>71 Dudley Road</deliveryPoint>
+        <city>New Brunswick</city>
+        <administrativeArea>NJ</administrativeArea>
+        <postalCode>08901</postalCode>
+        <country>USA</country>
+      </address>
+      <electronicMailAddress>pallter@marine.rutgers.edu</electronicMailAddress>
+      <onlineUrl>https://pallter.marine.rutgers.edu</onlineUrl>
+      <userId directory="https://ror.org/">https://ror.org/0139hn422</userId>
+    </creator>
+    <metadataProvider>
+      <organizationName>Palmer Station Antarctica LTER</organizationName>
+      <positionName>PAL LTER Information Manager</positionName>
+      <address>
+        <deliveryPoint>Rutgers Marine &amp; Coastal Sciences</deliveryPoint>
+        <deliveryPoint>71 Dudley Road</deliveryPoint>
+        <city>New Brunswick</city>
+        <administrativeArea>NJ</administrativeArea>
+        <postalCode>08901</postalCode>
+        <country>USA</country>
+      </address>
+      <electronicMailAddress>pallter@marine.rutgers.edu</electronicMailAddress>
+      <onlineUrl>https://pallter.marine.rutgers.edu</onlineUrl>
+      <userId directory="https://ror.org/">https://ror.org/0139hn422</userId>
+    </metadataProvider>
+    <associatedParty>
+      <organizationName>University of Wisconsin-Madison</organizationName>
+      <positionName>Antarctic Meteorological Research Center (AMRC)</positionName>
+      <address>
+        <deliveryPoint>947 Atmospheric, Oceanic, and Space Sciences Building</deliveryPoint>
+        <deliveryPoint>1225 West Dayton Street</deliveryPoint>
+        <city>Madison</city>
+        <administrativeArea>Wisconsin</administrativeArea>
+        <postalCode>53706</postalCode>
+        <country>USA</country>
+      </address>
+      <onlineUrl>https://amrc.ssec.wisc.edu</onlineUrl>
+      <userId directory="https://ror.org/">https://ror.org/01y2jtd41</userId>
+      <role>Data archive for the United States Antarctic Program (USAP)</role>
+    </associatedParty>
+    <abstract>      <para>Daily averages of weather data collected at Palmer Station, Antarctica were generated from averages of manual observations (1989-2003) and automatic weather station measurements (2003-present).  Weather data was originally acquired by manual observers 4 times per day.  An automated weather data system was installed in Nov 2001.  Measurements began shifting from manual to automated observations in June 2003 until the manual observations were ended on December 12, 2003, except for snow stake depth, sea ice coverage, and sea water temperature which remain as manual observations.  Data are collected, compiled, and distributed by the U.S. Antarctic Program’s polar contractor.  Data is archived by the Antarctic Meteorological Research Center (AMRC) at the University of Wisconsin-Madison, and made available online at https://amrc.ssec.wisc.edu/usap/palmer/.  This dataset contains a compiled version of the daily averaged data provided by the archive.</para>
+</abstract>
+    <keywordSet>
+      <keyword>measurements</keyword>
+      <keyword>disturbance</keyword>
+      <keyword>precipitation</keyword>
+      <keyword>temperature</keyword>
+      <keyword>weather</keyword>
+      <keywordThesaurus>LTER Controlled Vocabulary</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword>Disturbance Patterns</keyword>
+      <keyword>Signature</keyword>
+      <keywordThesaurus>LTER Core Areas</keywordThesaurus>
+    </keywordSet>
+    <intellectualRights>This information is released under the Creative Commons license - Attribution - CC BY (https://creativecommons.org/licenses/by/4.0/). The consumer of these data ("Data User" herein) is required to cite it appropriately in any publication that results from its use. The Data User should realize that these data may be actively used by others for ongoing research and that coordination may be necessary to prevent duplicate publication. The Data User is urged to contact the authors of these data if any questions about methodology or results occur. Where appropriate, the Data User is encouraged to consider collaboration or co-authorship with the authors. The Data User should realize that misinterpretation of data may occur if used out of context of the original study. While substantial efforts are made to ensure the accuracy of data and associated documentation, complete accuracy of data sets cannot be guaranteed. All data are made available "as is." The Data User should be aware, however, that data are updated periodically and it is the responsibility of the Data User to check for new versions of the data. The data authors and the repository where these data were obtained shall not be liable for damages resulting from any use or misinterpretation of the data. Thank you.</intellectualRights>
+    <distribution>
+      <online>
+        <url function="information">https://oceaninformatics.ucsd.edu/datazoo/catalogs/pallter/datasets/28</url>
+      </online>
+    </distribution>
+    <coverage>
+      <geographicCoverage>
+        <geographicDescription>Palmer Station, Anvers Island, Antarctica </geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-64.052718</westBoundingCoordinate>
+          <eastBoundingCoordinate>-64.052718</eastBoundingCoordinate>
+          <northBoundingCoordinate>-64.77423</northBoundingCoordinate>
+          <southBoundingCoordinate>-64.77423</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage>
+        <rangeOfDates>
+          <beginDate>
+            <calendarDate>1989</calendarDate>
+          </beginDate>
+          <endDate>
+            <calendarDate>2023</calendarDate>
+          </endDate>
+        </rangeOfDates>
+      </temporalCoverage>
+    </coverage>
+    <maintenance>
+      <description>        <para>MAINTENANCE</para>
+        <para>This dataset is typically updated annually, following the completion of the LTER research season and austral summer.</para>
+        <para></para>
+        <para>Version 9 includes the following updates:</para>
+        <para>- New averages up to June 2023 were added.</para>
+        <para>- Column names have been adjusted to conform with the source files, and special characters have been removed.</para>
+        <para>- Trace measurements are now denoted as “Trace”.  This only affects earlier data that was manually recorded.</para>
+        <para>- The 2 “Wind Peak Direction” columns were consolidated.  All directions are presumed to be True.</para>
+        <para>- Simplistic averages in version 8 that were simply the mean of the collected hi/low measurements, have been removed to be consistent with the original source files.</para>
+        <para>- Several gaps and transcription errors have been corrected after reviewing and reprocessing the raw source files.</para>
+        <para>- Incorrect data originally included for June 2017 has been fixed.</para>
+        <para>- Corrected wind data from 2/28/2019 to 11/20/2019 due to the installation of an incorrect propeller, has been included.</para>
+</description>
+      <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+    </maintenance>
+    <contact>
+      <organizationName>Palmer Station Antarctica LTER</organizationName>
+      <positionName>PAL LTER Information Manager</positionName>
+      <address>
+        <deliveryPoint>Rutgers Marine &amp; Coastal Sciences</deliveryPoint>
+        <deliveryPoint>71 Dudley Road</deliveryPoint>
+        <city>New Brunswick</city>
+        <administrativeArea>NJ</administrativeArea>
+        <postalCode>08901</postalCode>
+        <country>USA</country>
+      </address>
+      <electronicMailAddress>pallter@marine.rutgers.edu</electronicMailAddress>
+      <onlineUrl>https://pallter.marine.rutgers.edu</onlineUrl>
+      <userId directory="https://ror.org/">https://ror.org/0139hn422</userId>
+    </contact>
+    <methods>
+      <methodStep>
+        <description>          <para>Weather measurements at Palmer Station, have been collected from a variety of instruments and locations near the station on Anvers Island, Antarctica over the years.  All weather data is collected and processed by the Palmer Station Research Associate, and made available online by the Antarctic Meteorological Research Center (AMRC) at the University of Wisconsin-Madison at https://amrc.ssec.wisc.edu/usap/palmer/  The archive includes raw observations (1-2 minute resolution) from the PALMOS sensor (11/30/2001 to 9/30/2017), and the subsequent PAWS sensors (10/1/2015-present), as well as the daily averages calculated by the station staff since 1989.  The earlier daily averages (1989-2003) were calculated based on manual measurements made 4 times each day.  Additional information on instrumental changes over the years can be found in the AMRC archive.</para>
+</description>
+      </methodStep>
+    </methods>
+    <project>
+      <title>Palmer Antarctica LTER</title>
+      <personnel>
+        <individualName>
+          <givenName>Oscar</givenName>
+          <surName>Schofield</surName>
+        </individualName>
+        <organizationName>Rutgers University</organizationName>
+        <electronicMailAddress>oscar@marine.rutgers.edu</electronicMailAddress>
+        <userId directory="https://orcid.org">0000-0003-2359-4131</userId>
+        <role>PI</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Deborah</givenName>
+          <surName>Steinberg</surName>
+        </individualName>
+        <organizationName>Virginia Institute of Marine Science</organizationName>
+        <electronicMailAddress>debbies@vims.edu</electronicMailAddress>
+        <userId directory="https://orcid.org">0000-0001-9884-4655</userId>
+        <role>Co-PI</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Megan</givenName>
+          <surName>Cimino</surName>
+        </individualName>
+        <organizationName>University of California at Santa Cruz/NOAA</organizationName>
+        <electronicMailAddress>mecimino@ucsc.edu</electronicMailAddress>
+        <userId directory="https://orcid.org">0000-0002-1715-2903</userId>
+        <role>Co-PI</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Carlos</givenName>
+          <surName>Moffat</surName>
+        </individualName>
+        <organizationName>University of Delaware</organizationName>
+        <electronicMailAddress>cmoffat@udel.edu</electronicMailAddress>
+        <userId directory="https://orcid.org">0000-0002-7768-8275</userId>
+        <role>Co-PI</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Benjamin</givenName>
+          <surName>Van Mooy</surName>
+        </individualName>
+        <organizationName>Woods Hole Oceanographic Institute</organizationName>
+        <electronicMailAddress>bvanmooy@whoi.edu</electronicMailAddress>
+        <userId directory="https://orcid.org">0000-0002-2804-6508</userId>
+        <role>Co-PI</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Ari</givenName>
+          <surName>Friedlaender</surName>
+        </individualName>
+        <organizationName>University of California at Santa Cruz</organizationName>
+        <electronicMailAddress>ari.friedlaender@ucsc.edu</electronicMailAddress>
+        <userId directory="https://orcid.org">0000-0002-2822-233X</userId>
+        <role>Co-PI</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Scott</givenName>
+          <surName>Doney</surName>
+        </individualName>
+        <organizationName>University of Virginia</organizationName>
+        <electronicMailAddress>sdoney@virginia.edu</electronicMailAddress>
+        <userId directory="https://orcid.org">0000-0002-3683-2437</userId>
+        <role>Co-PI</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Sharon</givenName>
+          <surName>Stammerjohn</surName>
+        </individualName>
+        <organizationName>INSTAAR, University of Colorado Boulder</organizationName>
+        <electronicMailAddress>sharon.stammerjohn@colorado.edu</electronicMailAddress>
+        <userId directory="https://orcid.org">0000-0002-1697-8244</userId>
+        <role>Co-PI</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Janice</givenName>
+          <surName>McDonnell</surName>
+        </individualName>
+        <organizationName>Rutgers University</organizationName>
+        <electronicMailAddress>mcdonnel@marine.rutgers.edu</electronicMailAddress>
+        <userId directory="https://orcid.org">0000-0001-7305-1720</userId>
+        <role>Co-PI</role>
+      </personnel>
+      <abstract>        <para>The Palmer, Antarctica, Long-Term Ecological Research (LTER) project is a member site of the Long-Term Ecological Research program, a network of sites investigating diverse biomes. The Palmer LTER sire has been in operation since 1990. The team of researchers seeks to understand the structure and function of the Western Antarctic Peninsula's marine and terrestrial ecosystems in the context of seasonal-to-interannual atmospheric and sea ice dynamics, and how the marine ecosystem west of the Antarctica peninsula is responding to a climate that is changing as rapidly as any place on the Earth. The PAL measurement system (or grid) is designed to study marine and terrestrial food webs consisting principally of diatom primary producers, the dominant herbivore Antarctic krill, and the apex predator Adelie penguin. The importance of the attenuated microbial food web and the roles of whales as a major predatyor in the seasonal sea ice zone ecosystem are also key focuses of the PAL-LTER. PAL studies these ecosystems annually over a regional scale grid of oceanographic stations and seasonally at Palmer Station. Cutting edge technologies such as autonomous underwater (and possibly airborne) vehicles, seafloor moorings, and numerical modeling, coupled with annual oceanographic cruises, and weekly environmental sampling, enables the Palmer Antarctica LTER to expand and bridge the time and space scales needed to assess climatic impacts. Palmer Station is located on Anvers Island west of the Antarctic Peninsula. The peninsula runs perpendicular to a strong climatic gradient between the cold, dry continental regime to the south, characteristic of the Antarctic interior, and the warm, moist, maritime regime to the north. North-south shifts in the gradient give rise to large environmental variability to climate change. Sea ice extent and variability affects ecosystem changes at all trophic levels. In addition to the long-term field and research activities, information management, graduate student training, education and outreach are an integral part of the program.</para>
+</abstract>
+      <award>
+        <funderName>National Science Foundation, Office of Polar Programs</funderName>
+        <awardNumber>2023425 (and previous awards)</awardNumber>
+        <title>LTER Palmer, Antarctica (PAL): Land-Shelf-Ocean Connectivity, Ecosystem Resilience and Transformation in a Sea-Ice Influenced Pelagic Ecosystem</title>
+      </award>
+    </project>
+    <dataTable>
+      <entityName>Palmer Station Daily Weather</entityName>
+      <entityDescription>Daily weather averages from Palmer Station</entityDescription>
+      <physical>
+        <objectName>PalmerStation_Daily_Weather.csv</objectName>
+        <size unit="byte">1068423</size>
+        <authentication method="MD5">7c97115daa4c68060caf2af89ac60c08</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+              <quoteCharacter>"</quoteCharacter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url function="download">https://ezeml.edirepository.org/user-data/PAL-04e7b50e325fe831d997d067d0c8f5f4/uploads/28%20Weather%20Daily%20Avg/PalmerStation_Daily_Weather.csv</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>Date</attributeName>
+          <attributeLabel>Date</attributeLabel>
+          <attributeDefinition>Date</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">dateTime</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY-MM-DD</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Temperature High (C)</attributeName>
+          <attributeLabel>Temperature High (C)</attributeLabel>
+          <attributeDefinition>Air temperature high for the day</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Temperature Low (C)</attributeName>
+          <attributeLabel>Temperature Low (C)</attributeLabel>
+          <attributeDefinition>Air temperature low for the day</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Temperature Average (C)</attributeName>
+          <attributeLabel>Temperature Average (C)</attributeLabel>
+          <attributeDefinition>Average air temperature for the day</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Sea Surface Temperature (C)</attributeName>
+          <attributeLabel>Sea Surface Temperature (C)</attributeLabel>
+          <attributeDefinition>Average sea surface temperature for the day, taken from the tide gauge at the end of Palmer Station's pier</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Sea Ice (WMO Code)</attributeName>
+          <attributeLabel>Sea Ice (WMO Code)</attributeLabel>
+          <attributeDefinition>5 digit sea ice code. From left to right: [1] Concentration or arrangement of sea ice (Ice Formation ID), [2] Stage of ice development (Ice Age ID), [3] Ice of land origin (Land Ice Type ID), [4] True bearing of principal ice edge (Ice Edge ID), [5] Present ice situation and trend of conditions over the preceding 3 hours (ice_cond_trnd).  See IceGroup.doc for code details.</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Pressure High (mbar)</attributeName>
+          <attributeLabel>Pressure High (mbar)</attributeLabel>
+          <attributeDefinition>Air pressure high for the day</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millibar</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Pressure Low (mbar)</attributeName>
+          <attributeLabel>Pressure Low (mbar)</attributeLabel>
+          <attributeDefinition>Air pressure low for the day</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millibar</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Pressure Average (mbar)</attributeName>
+          <attributeLabel>Pressure Average (mbar)</attributeLabel>
+          <attributeDefinition>Average air pressure for the day</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millibar</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Wind Peak (knots)</attributeName>
+          <attributeLabel>Wind Peak (knots)</attributeLabel>
+          <attributeDefinition>Peak daily wind speed</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>knot</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Wind 5-Sec Peak (knots)</attributeName>
+          <attributeLabel>Wind 5-Sec Peak (knots)</attributeLabel>
+          <attributeDefinition>Maximum 5-second sustained gust in a day</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>knot</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Wind 2-Min Peak (knots)</attributeName>
+          <attributeLabel>Wind 2-Min Peak (knots)</attributeLabel>
+          <attributeDefinition>Maximum of 2-minute averaged wind speeds in a day</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>knot</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Wind Average (knots)</attributeName>
+          <attributeLabel>Wind Average (knots)</attributeLabel>
+          <attributeDefinition>Average wind speed</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>knot</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Wind Peak Direction</attributeName>
+          <attributeLabel>Wind Peak Direction</attributeLabel>
+          <attributeDefinition>Direction of the peak daily wind speed</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Wind 5-Sec Peak Direction</attributeName>
+          <attributeLabel>Wind 5-Sec Peak Direction</attributeLabel>
+          <attributeDefinition>Direction of the 5-second sustained gust in a day</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Wind 2-Min Peak Direction</attributeName>
+          <attributeLabel>Wind 2-Min Peak Direction</attributeLabel>
+          <attributeDefinition>Direction of the maximum of 2-minute averaged wind speeds in a day</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Wind Prevailing Direction</attributeName>
+          <attributeLabel>Wind Prevailing Direction</attributeLabel>
+          <attributeDefinition>Binned compass direction with the most wind measurements in a day</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Precipitation Melted (mm)</attributeName>
+          <attributeLabel>Precipitation Melted (mm)</attributeLabel>
+          <attributeDefinition>New rainfall and melted precipitation (e.g. snow)</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>T</code>
+            <codeExplanation>Trace</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Precipitation Snow (cm)</attributeName>
+          <attributeLabel>Precipitation Snow (cm)</attributeLabel>
+          <attributeDefinition>Measured depth of new snow</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>T</code>
+            <codeExplanation>Trace</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Depth at Snowstake (cm)</attributeName>
+          <attributeLabel>Depth at Snowstake (cm)</attributeLabel>
+          <attributeDefinition>Daily measurement of depth at the snowstake</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>T</code>
+            <codeExplanation>Trace</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Sky Coverage (tenths)</attributeName>
+          <attributeLabel>Sky Coverage (tenths)</attributeLabel>
+          <attributeDefinition>Cloud cover measured in tenths</attributeDefinition>
+          <storageType typeSystem="XML Schema Datatypes">float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>Tenths</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <caseSensitive>no</caseSensitive>
+      <numberOfRecords>12477</numberOfRecords>
+    </dataTable>
+  </dataset>
+  <additionalMetadata>
+    <metadata>
+      <fetchedFromEDI packageID="knb-lter-pal.28.8" dateFetched="2023-09-07"/>
+    </metadata>
+  </additionalMetadata>
+  <additionalMetadata>
+    <metadata>
+      <importedFromXML filename="knb-lter-pal.28.8.xml" dateImported="2023-09-07" taxonomicCoverageExempt="True"/>
+    </metadata>
+  </additionalMetadata>
+  <additionalMetadata>
+    <metadata>
+      <unitList>
+        <unit id="Tenths" name="Tenths">
+          <description>A ratio of X out of 10</description>
+        </unit>
+      </unitList>
+    </metadata>
+  </additionalMetadata>
+  <additionalMetadata>
+    <metadata>
+      <emlEditor app="ezEML" release="2023.08.30"/>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>
