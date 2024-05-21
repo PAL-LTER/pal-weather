@@ -24,15 +24,15 @@ def main():
   df = pd.read_csv('PalmerStation_Daily_Weather.csv', index_col='Date', parse_dates=True)
   
   # Fix Precipitation - Version 8 considered Trace to be NaN.  In version 9, let's make them 0.
-  df['Precipitation Melted (mm)'].replace('T', 0, inplace=True)  # Change to np.nan if desired
+  df['Precipitation Melted (mm)'] = df['Precipitation Melted (mm)'].replace('T', 0)  # Change to np.nan if desired
   df['Precipitation Melted (mm)'] = df['Precipitation Melted (mm)'].astype('float64')
   
   # Fill in simplistic averages (mean of high/low) of temp and pressure where missing
-  df['Temperature Average (C)'].fillna( (df['Temperature High (C)'] + df['Temperature Low (C)'])/2, inplace=True)
-  df['Pressure Average (mbar)'].fillna( (df['Pressure High (mbar)'] + df['Pressure Low (mbar)'])/2, inplace=True)
+  df['Temperature Average (C)'] = df['Temperature Average (C)'].fillna( (df['Temperature High (C)'] + df['Temperature Low (C)'])/2)
+  df['Pressure Average (mbar)'] = df['Pressure Average (mbar)'].fillna( (df['Pressure High (mbar)'] + df['Pressure Low (mbar)'])/2)
   
   # Remove low pressure values
-  df['Pressure Average (mbar)'].where(df['Pressure Average (mbar)']>800, inplace=True)
+  df['Pressure Average (mbar)'] = df['Pressure Average (mbar)'].where(df['Pressure Average (mbar)']>800)
   
   # Calculate monthly averages
   df_avg = df.resample('1MS').agg({
@@ -45,7 +45,7 @@ def main():
   
   # Add old temps from Baker 1996
   df0 = pd.read_csv('monthly_temps_1974_1989.csv', index_col='Date', parse_dates=True)
-  df0.drop(['Year','Month'], axis=1, inplace=True)
+  df0 = df0.drop(['Year','Month'], axis=1)
   df0.columns = pd.MultiIndex.from_tuples([("Temperature Average (C)", "mean")])
   df_avg = pd.concat([df0, df_avg])
   print(df_avg)

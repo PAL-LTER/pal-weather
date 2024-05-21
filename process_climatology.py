@@ -180,7 +180,7 @@ def main():
   out2.drop(columns={'Year','Month','Day'}, inplace=True)
   
   # Trim spaces on strings
-  out2 = out2.applymap( remove_whitespace )
+  out2 = out2.map(lambda x: remove_whitespace(x) )
     
   # Expected Column Order
   cols = ['Date','Temperature High (C)','Temperature Low (C)','Temperature Average (C)',
