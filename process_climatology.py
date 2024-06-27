@@ -9,7 +9,7 @@
 # in the in climatology directory) that were recently updated by the Palmer RA
 # to be more consistent in format, and to fix a number of export processing issues.
 #
-# Edited by Sage Lichtenwalner, Rutgers University, 8/18/2023
+# Edited by Sage Lichtenwalner, Rutgers University, 8/18/2023, 5/21/2024
 
 import argparse
 import pandas as pd
